@@ -75,3 +75,5 @@ Click on the following link to see the Code in Action:
 
 ##CHAPp2
 Terraform code Source
+
+Nota: Debera crear un pullrequest para revisar la calidad de codigo
